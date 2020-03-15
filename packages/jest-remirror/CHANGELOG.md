@@ -1,5 +1,15 @@
 # jest-remirror
 
+## 0.11.1
+
+### Patch Changes
+
+- 000fdfb0: Upgraded external dependencies with major releases.
+- Updated dependencies [5888a7aa]
+- Updated dependencies [000fdfb0]
+  - @remirror/core-extensions@0.11.1
+  - jest-prosemirror@0.8.2
+
 ## 0.11.0
 
 ### Patch Changes

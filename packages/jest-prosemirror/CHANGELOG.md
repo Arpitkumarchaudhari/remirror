@@ -1,5 +1,11 @@
 # jest-prosemirror
 
+## 0.8.2
+
+### Patch Changes
+
+- 000fdfb0: Upgraded external dependencies with major releases.
+
 ## 0.8.1
 
 ### Patch Changes
